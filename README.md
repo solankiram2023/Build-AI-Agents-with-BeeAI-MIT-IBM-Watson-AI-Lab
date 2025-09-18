@@ -2,6 +2,8 @@
 
 This repository contains my work from the **BeeAI Framework Workshop (MIT–IBM Watson AI Lab)**, where I built an **AI Agent** to assist with conference preparation by combining web search, Wikipedia knowledge, and internal documents.
 
+Event Link : https://luma.com/6jgs8hpo?utm_source=ep-upnyA5SBCl
+
 ---
 
 ## 📖 Project Overview
